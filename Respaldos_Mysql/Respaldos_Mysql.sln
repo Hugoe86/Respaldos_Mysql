@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Respaldos_Mysql", "Respaldos_Mysql\Respaldos_Mysql.csproj", "{8D201708-2E99-4878-8150-585B119E854F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sw_Mantenimiento_BackUp_Momias", "Sw_Mantenimiento_BackUp_Momias\Sw_Mantenimiento_BackUp_Momias.csproj", "{7589FE9A-5667-48AB-BC34-5E36D220D5F6}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Instalador_Backup_Momias", "Instalador_Backup_Momias\Instalador_Backup_Momias.vdproj", "{8C481F16-1121-4F06-9FED-7A48A93BF5D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D201708-2E99-4878-8150-585B119E854F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D201708-2E99-4878-8150-585B119E854F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D201708-2E99-4878-8150-585B119E854F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D201708-2E99-4878-8150-585B119E854F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7589FE9A-5667-48AB-BC34-5E36D220D5F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7589FE9A-5667-48AB-BC34-5E36D220D5F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7589FE9A-5667-48AB-BC34-5E36D220D5F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7589FE9A-5667-48AB-BC34-5E36D220D5F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C481F16-1121-4F06-9FED-7A48A93BF5D9}.Debug|Any CPU.ActiveCfg = Debug
+		{8C481F16-1121-4F06-9FED-7A48A93BF5D9}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A97BF31-3012-4155-9F22-1D93AEA3A1FE}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+C:\Users\eramirez\Documents\Github\Respaldos_Mysql\Respaldos_Mysql\Sw_Mantenimiento_BackUp_Momias\bin\Debug\Sw_Mantenimiento_BackUp_Momias.exe.config
+C:\Users\eramirez\Documents\Github\Respaldos_Mysql\Respaldos_Mysql\Sw_Mantenimiento_BackUp_Momias\bin\Debug\Sw_Mantenimiento_BackUp_Momias.exe
+C:\Users\eramirez\Documents\Github\Respaldos_Mysql\Respaldos_Mysql\Sw_Mantenimiento_BackUp_Momias\bin\Debug\Sw_Mantenimiento_BackUp_Momias.pdb
+C:\Users\eramirez\Documents\Github\Respaldos_Mysql\Respaldos_Mysql\Sw_Mantenimiento_BackUp_Momias\obj\Debug\Sw_Mantenimiento_BackUp_Momias.ProjectInstaller.resources
+C:\Users\eramirez\Documents\Github\Respaldos_Mysql\Respaldos_Mysql\Sw_Mantenimiento_BackUp_Momias\obj\Debug\Sw_Mantenimiento_BackUp_Momias.csproj.GenerateResource.cache
+C:\Users\eramirez\Documents\Github\Respaldos_Mysql\Respaldos_Mysql\Sw_Mantenimiento_BackUp_Momias\obj\Debug\Sw_Mantenimiento_BackUp_Momias.csproj.CoreCompileInputs.cache
+C:\Users\eramirez\Documents\Github\Respaldos_Mysql\Respaldos_Mysql\Sw_Mantenimiento_BackUp_Momias\obj\Debug\Sw_Mantenimiento_BackUp_Momias.exe
+C:\Users\eramirez\Documents\Github\Respaldos_Mysql\Respaldos_Mysql\Sw_Mantenimiento_BackUp_Momias\obj\Debug\Sw_Mantenimiento_BackUp_Momias.pdb
