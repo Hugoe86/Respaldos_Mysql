@@ -22,12 +22,7 @@ namespace Sw_Mantenimiento_BackUp_Momias
         public Int32 dias = 7;
         String ruta_bk = @"C:\respaldo\bkMomias_.sql";
 
-        String ruta_zip = @"C:\Users\MOMIAS\Dropbox\Respaldos\bkMomias\bk_Momias_" +
-                                     DateTime.Now.Year.ToString() + "_" +
-                                     DateTime.Now.Month.ToString() + "_" +
-                                     DateTime.Now.Day.ToString() + "_" +
-                                     DateTime.Now.Hour.ToString() + DateTime.Now.Minute.ToString() +
-                                     ".zip";
+        String ruta_zip = "";
 
         public string ruta = @"C:\Users\MOMIAS\Dropbox\Respaldos\";
 
@@ -72,6 +67,13 @@ namespace Sw_Mantenimiento_BackUp_Momias
             try
             {
                 DateTime Dtime_Hora = DateTime.Now;
+
+                ruta_zip = @"C:\Users\MOMIAS\Dropbox\Respaldos\bkMomias\bk_Momias_" +
+                                    DateTime.Now.Year.ToString() + "_" +
+                                    DateTime.Now.Month.ToString() + "_" +
+                                    DateTime.Now.Day.ToString() + "_" +
+                                    DateTime.Now.Hour.ToString() + DateTime.Now.Minute.ToString() +
+                                    ".zip";
 
 
                 if (Dtime_Hora.Hour >= 19 && Dtime_Hora.Hour <= 19)
